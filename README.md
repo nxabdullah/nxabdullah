@@ -12,8 +12,6 @@ I am currently on my Professional Experience Year (PEY) as an intern software en
 
 Previously, I was working with a medical tech startup at UofT Hatchery as a project lead. 
 
-Aside from that, I currently a fourth year undergrad student studying computer science at the University of Toronto. 
-
 ## 📫 Contact
 
 Please contact me via [LinkedIn](https://www.linkedin.com/in/nxabdullah) or [Twitter](https://twitter.com/nxabdullah1) for a fast response. 
