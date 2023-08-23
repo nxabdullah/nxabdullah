@@ -1,6 +1,19 @@
-Hi there! My name is Abdullah and I am a software engineer with a focus on web development. I have a strong skillset in technologies like React and Django, and have experience building a wide range of applications using these frameworks. In addition to my web development skills, I am also interested in machine learning and am always looking for ways to incorporate this field into my projects. In my current role, I am responsible for designing and implementing new features for our product, as well as maintaining and improving the performance of our existing codebase.
+### Hey, I'm Abdullah 👋
 
-<!---
-nxabdullah/nxabdullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a full-stack engineer who loves to breathe life into innovative ideas, harness the power of technology to tackle hallenges, and engineer scalable, extensible, and maintainable systems for the future.
+
+## ⚡️ Current
+
+Currently working on building [Semtrack](https://semtrack.co/) and getting it ready for the upcoming school year. 
+
+## 💎 Experience
+
+I am currently on my Professional Experience Year (PEY) as an intern software engineer at Xero. 
+
+Previously, I was working with a medical tech startup at UofT Hatchery as a project lead. 
+
+Aside from that, I currently a fourth year undergrad student studying computer science at the University of Toronto. 
+
+## 📫 Contact
+
+Please contact me via [LinkedIn](https://www.linkedin.com/in/nxabdullah) or [Twitter](https://twitter.com/nxabdullah1) for a fast response. 
