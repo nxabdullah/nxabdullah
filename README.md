@@ -1,6 +1,6 @@
 ### Hey, I'm Abdullah 👋
 
-I'm a full-stack engineer who loves to breathe life into innovative ideas, harness the power of technology to tackle hallenges, and engineer scalable, extensible, and maintainable systems for the future.
+I'm a full-stack engineer who loves to breathe life into innovative ideas, harness the power of technology to tackle challenges, and engineer scalable, extensible, and maintainable systems for the future.
 
 ## ⚡️ Current
 
