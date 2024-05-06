@@ -4,13 +4,13 @@ I'm a full-stack engineer who loves to breathe life into innovative ideas, harne
 
 ## ⚡️ Current
 
-Currently working on building [Semtrack](https://semtrack.co/) and getting it ready for the upcoming school year. 
+Currently working on building [Semtrack](https://semtrack.co/).
 
 ## 💎 Experience
 
 I am currently on my Professional Experience Year (PEY) as an intern software engineer at Xero. 
 
-Previously, I was working with a medical tech startup at UofT Hatchery as a project lead. 
+Previously, I was working with a medical tech startup at UofT Hatchery as a react native developer. 
 
 ## 📫 Contact
 
