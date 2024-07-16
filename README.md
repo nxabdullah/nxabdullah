@@ -2,10 +2,6 @@
 
 I'm a full-stack engineer who loves to breathe life into innovative ideas, harness the power of technology to tackle challenges, and engineer scalable, extensible, and maintainable systems for the future.
 
-## ⚡️ Current
-
-Currently working on building [Semtrack](https://semtrack.co/).
-
 ## 💎 Experience
 
 I am currently on my Professional Experience Year (PEY) as an intern software engineer at Xero. 
